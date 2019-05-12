@@ -1,6 +1,6 @@
 CACHE ?= --no-cache=1
-VERSION ?= v4.2.0
-FULLVERSION ?= v4.2.0
+VERSION ?= v5.0.0
+FULLVERSION ?= v5.0.0
 archs ?= arm32v7 amd64
 .PHONY: all build publish latest
 all: build publish latest
